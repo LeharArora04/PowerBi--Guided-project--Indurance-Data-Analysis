@@ -47,7 +47,7 @@ All rights and content belong to the original course creator.
 
 ## 📷 Dashboard Preview
 
-![PRISM Insurance Dashboard](link-to-your-dashboard-image-if-hosted)
+![PRISM Insurance Dashboard](https://app.powerbi.com/links/p45mj_m5-C?ctid=aa2e8cd3-d01f-4f96-92ce-1f4dd6e178e7&pbi_source=linkShare))
 
 ---
 
